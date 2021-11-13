@@ -1,0 +1,5 @@
+/Users/hasanaliozkan/Desktop/C#/FifthLessonCSharp/FifthLessonCSharp/bin/Debug/FifthLessonCSharp.exe
+/Users/hasanaliozkan/Desktop/C#/FifthLessonCSharp/FifthLessonCSharp/bin/Debug/FifthLessonCSharp.pdb
+/Users/hasanaliozkan/Desktop/C#/FifthLessonCSharp/FifthLessonCSharp/obj/Debug/FifthLessonCSharp.csprojAssemblyReference.cache
+/Users/hasanaliozkan/Desktop/C#/FifthLessonCSharp/FifthLessonCSharp/obj/Debug/FifthLessonCSharp.exe
+/Users/hasanaliozkan/Desktop/C#/FifthLessonCSharp/FifthLessonCSharp/obj/Debug/FifthLessonCSharp.pdb

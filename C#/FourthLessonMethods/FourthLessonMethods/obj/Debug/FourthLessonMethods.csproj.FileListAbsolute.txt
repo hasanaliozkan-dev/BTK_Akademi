@@ -1,0 +1,5 @@
+/Users/hasanaliozkan/Desktop/C#/FourthLessonMethods/FourthLessonMethods/bin/Debug/FourthLessonMethods.exe
+/Users/hasanaliozkan/Desktop/C#/FourthLessonMethods/FourthLessonMethods/bin/Debug/FourthLessonMethods.pdb
+/Users/hasanaliozkan/Desktop/C#/FourthLessonMethods/FourthLessonMethods/obj/Debug/FourthLessonMethods.csprojAssemblyReference.cache
+/Users/hasanaliozkan/Desktop/C#/FourthLessonMethods/FourthLessonMethods/obj/Debug/FourthLessonMethods.exe
+/Users/hasanaliozkan/Desktop/C#/FourthLessonMethods/FourthLessonMethods/obj/Debug/FourthLessonMethods.pdb

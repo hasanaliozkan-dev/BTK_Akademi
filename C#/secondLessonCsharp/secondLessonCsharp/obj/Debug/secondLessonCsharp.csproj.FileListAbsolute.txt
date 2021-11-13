@@ -1,0 +1,5 @@
+/Users/hasanaliozkan/Desktop/C#/secondLessonCsharp/secondLessonCsharp/bin/Debug/secondLessonCsharp.exe
+/Users/hasanaliozkan/Desktop/C#/secondLessonCsharp/secondLessonCsharp/bin/Debug/secondLessonCsharp.pdb
+/Users/hasanaliozkan/Desktop/C#/secondLessonCsharp/secondLessonCsharp/obj/Debug/secondLessonCsharp.csprojAssemblyReference.cache
+/Users/hasanaliozkan/Desktop/C#/secondLessonCsharp/secondLessonCsharp/obj/Debug/secondLessonCsharp.exe
+/Users/hasanaliozkan/Desktop/C#/secondLessonCsharp/secondLessonCsharp/obj/Debug/secondLessonCsharp.pdb

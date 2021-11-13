@@ -1,0 +1,5 @@
+/Users/hasanaliozkan/Desktop/C#/ThirdLessonDerekBanas/ThirdLessonDerekBanas/bin/Debug/ThirdLessonDerekBanas.exe
+/Users/hasanaliozkan/Desktop/C#/ThirdLessonDerekBanas/ThirdLessonDerekBanas/bin/Debug/ThirdLessonDerekBanas.pdb
+/Users/hasanaliozkan/Desktop/C#/ThirdLessonDerekBanas/ThirdLessonDerekBanas/obj/Debug/ThirdLessonDerekBanas.csprojAssemblyReference.cache
+/Users/hasanaliozkan/Desktop/C#/ThirdLessonDerekBanas/ThirdLessonDerekBanas/obj/Debug/ThirdLessonDerekBanas.exe
+/Users/hasanaliozkan/Desktop/C#/ThirdLessonDerekBanas/ThirdLessonDerekBanas/obj/Debug/ThirdLessonDerekBanas.pdb

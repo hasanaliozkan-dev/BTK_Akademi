@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdLessonDerekBanas", "ThirdLessonDerekBanas\ThirdLessonDerekBanas.csproj", "{9F62AB3C-5515-4545-AC9C-E7FFEF38C4A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F62AB3C-5515-4545-AC9C-E7FFEF38C4A9}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9F62AB3C-5515-4545-AC9C-E7FFEF38C4A9}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9F62AB3C-5515-4545-AC9C-E7FFEF38C4A9}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9F62AB3C-5515-4545-AC9C-E7FFEF38C4A9}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

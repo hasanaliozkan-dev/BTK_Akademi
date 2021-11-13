@@ -1,0 +1,5 @@
+/Users/hasanaliozkan/Desktop/C#/FirsCSharpLessonderekBanas/FirsCSharpLessonderekBanas/bin/Debug/FirsCSharpLessonderekBanas.exe
+/Users/hasanaliozkan/Desktop/C#/FirsCSharpLessonderekBanas/FirsCSharpLessonderekBanas/bin/Debug/FirsCSharpLessonderekBanas.pdb
+/Users/hasanaliozkan/Desktop/C#/FirsCSharpLessonderekBanas/FirsCSharpLessonderekBanas/obj/Debug/FirsCSharpLessonderekBanas.csprojAssemblyReference.cache
+/Users/hasanaliozkan/Desktop/C#/FirsCSharpLessonderekBanas/FirsCSharpLessonderekBanas/obj/Debug/FirsCSharpLessonderekBanas.exe
+/Users/hasanaliozkan/Desktop/C#/FirsCSharpLessonderekBanas/FirsCSharpLessonderekBanas/obj/Debug/FirsCSharpLessonderekBanas.pdb
